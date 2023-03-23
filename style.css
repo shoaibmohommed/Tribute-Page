@@ -1,0 +1,22 @@
+body {
+  background-color: grey;
+  padding: 40px;
+}
+.summary{
+  padding: 20px;
+  margin: 5px;
+}
+.container-fluid{
+  padding: 8px;
+}
+span{
+font-weight:bolder;
+  color:black;
+}
+
+img{
+  margin-bottom: 50px;
+}
+.bg-light{
+ margin: 40px; 
+}
